@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://viktorelias.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://viktorelias.com/</loc>
+</url>
+<url>
+<loc>https://viktorelias.com/2016-us-presidential-debate-donald-trump-vs-hillary-clinton-a-political-analysis/</loc>
+<lastmod>2022-10-03T18:37:24-04:00</lastmod>
+<image:image>
+<image:loc>https://viktorelias.com/media/posts/1/2016-us-presidential-debate.jpeg</image:loc>
+<image:title><![CDATA[Preparations for 2016 U.S. Presidential Debate between Donald Trump and Hillary Clinton]]></image:title>
+</image:image>
+</url>
+</urlset>
