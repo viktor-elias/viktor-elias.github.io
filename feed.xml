@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Viktor Elias</title>
     <link href="https://viktorelias.com/feed.xml" rel="self" />
     <link href="https://viktorelias.com" />
-    <updated>2022-10-26T20:36:10-04:00</updated>
+    <updated>2022-11-20T19:11:33-05:00</updated>
     <author>
         <name>Viktor Elias</name>
     </author>
     <id>https://viktorelias.com</id>
 
+    <entry>
+        <title>An Extremely Detailed Map of the 2022 Toronto Municipal Election</title>
+        <author>
+            <name>Viktor Elias</name>
+        </author>
+        <link href="https://viktorelias.com/an-extremely-detailed-map-of-the-2022-toronto-municipal-election/"/>
+        <id>https://viktorelias.com/an-extremely-detailed-map-of-the-2022-toronto-municipal-election/</id>
+
+        <updated>2022-11-14T02:36:13-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Grazie Ristorante Brings a Taste of Italy to Toronto</title>
         <author>
@@ -16,6 +35,7 @@
         </author>
         <link href="https://viktorelias.com/grazie-ristorante-brings-a-taste-of-italy-to-toronto/"/>
         <id>https://viktorelias.com/grazie-ristorante-brings-a-taste-of-italy-to-toronto/</id>
+        <media:content url="https://viktorelias.com/media/posts/29/drinks.jpeg" medium="image" />
             <category term="JRN 501"/>
 
         <updated>2022-10-26T20:36:10-04:00</updated>
@@ -27,7 +47,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://viktorelias.com/media/posts/29/drinks.jpeg" alt="A bartender pours a drink at Grazie Ristorante in Toronto, Canada" />
+                    <p><img src="https://viktorelias.com/media/posts/29/drinks.jpeg" class="type:primaryImage" alt="A bartender pours a drink at Grazie Ristorante in Toronto, Canada" /></p>
                 
   <p>
     When I walked into Grazie shortly after 10 p.m., I could see small crowds gathering.
@@ -54,7 +74,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://viktorelias.com/media/posts/29/bruschetta.jpeg" sizes="100vw" srcset="https://viktorelias.com/media/posts/29/responsive/bruschetta-xs.jpeg 300w ,https://viktorelias.com/media/posts/29/responsive/bruschetta-sm.jpeg 480w ,https://viktorelias.com/media/posts/29/responsive/bruschetta-md.jpeg 768w ,https://viktorelias.com/media/posts/29/responsive/bruschetta-lg.jpeg 1024w ,https://viktorelias.com/media/posts/29/responsive/bruschetta-xl.jpeg 1360w ,https://viktorelias.com/media/posts/29/responsive/bruschetta-2xl.jpeg 1600w"  height="1080" width="1080" alt="Bruschetta at Grazie Ristorante in Vaughan, Canada" />
+      <img loading="lazy" src="https://viktorelias.com/media/posts/29/bruschetta.jpeg" height="1080" width="1080" alt="Bruschetta at Grazie Ristorante in Vaughan, Canada"  sizes="100vw" srcset="https://viktorelias.com/media/posts/29/responsive/bruschetta-xs.jpeg 300w ,https://viktorelias.com/media/posts/29/responsive/bruschetta-sm.jpeg 480w ,https://viktorelias.com/media/posts/29/responsive/bruschetta-md.jpeg 768w ,https://viktorelias.com/media/posts/29/responsive/bruschetta-lg.jpeg 1024w ,https://viktorelias.com/media/posts/29/responsive/bruschetta-xl.jpeg 1360w ,https://viktorelias.com/media/posts/29/responsive/bruschetta-2xl.jpeg 1600w">
       <figcaption>Bruschetta at Grazie Ristorante in Vaughan, Ontario. Grazie Ristorante Limited/Facebook</figcaption>
     </figure>
 
@@ -79,7 +99,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://viktorelias.com/media/posts/29/chef.jpeg" sizes="100vw" srcset="https://viktorelias.com/media/posts/29/responsive/chef-xs.jpeg 300w ,https://viktorelias.com/media/posts/29/responsive/chef-sm.jpeg 480w ,https://viktorelias.com/media/posts/29/responsive/chef-md.jpeg 768w ,https://viktorelias.com/media/posts/29/responsive/chef-lg.jpeg 1024w ,https://viktorelias.com/media/posts/29/responsive/chef-xl.jpeg 1360w ,https://viktorelias.com/media/posts/29/responsive/chef-2xl.jpeg 1600w"  height="1365" width="2048" alt="A chef cooks at Grazie Ristorante at Yonge and Eglinton in Toronto, Canada" />
+      <img loading="lazy" src="https://viktorelias.com/media/posts/29/chef.jpeg" height="1365" width="2048" alt="A chef cooks at Grazie Ristorante at Yonge and Eglinton in Toronto, Canada"  sizes="100vw" srcset="https://viktorelias.com/media/posts/29/responsive/chef-xs.jpeg 300w ,https://viktorelias.com/media/posts/29/responsive/chef-sm.jpeg 480w ,https://viktorelias.com/media/posts/29/responsive/chef-md.jpeg 768w ,https://viktorelias.com/media/posts/29/responsive/chef-lg.jpeg 1024w ,https://viktorelias.com/media/posts/29/responsive/chef-xl.jpeg 1360w ,https://viktorelias.com/media/posts/29/responsive/chef-2xl.jpeg 1600w">
       <figcaption>Chef at Grazie Ristorante at Yonge and Eglinton in Toronto. Grazie Ristorante Limited/Facebook</figcaption>
     </figure>
 
@@ -112,6 +132,7 @@
         </author>
         <link href="https://viktorelias.com/taylor-swift-makes-red-taylors-version-even-better/"/>
         <id>https://viktorelias.com/taylor-swift-makes-red-taylors-version-even-better/</id>
+        <media:content url="https://viktorelias.com/media/posts/4/taylor-swift-red-tour.jpeg" medium="image" />
             <category term="JRN 501"/>
 
         <updated>2022-10-18T14:49:31-04:00</updated>
@@ -123,7 +144,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://viktorelias.com/media/posts/4/taylor-swift-red-tour.jpeg" alt="Taylor Swift performs at the Red Tour in March 2013" />
+                    <p><img src="https://viktorelias.com/media/posts/4/taylor-swift-red-tour.jpeg" class="type:primaryImage" alt="Taylor Swift performs at the Red Tour in March 2013" /></p>
                 
   <p>
     Nearly 10 years after its initial release as Taylor Swift’s fourth studio album, <em>Red (Taylor’s Version)</em> manages to be even better than the original. Running just over two hours long, her album features the re-recordings of the original 21 songs from the album and its subsequent era, plus nine new songs. <a href="https://www.vox.com/culture/22278732/taylor-swift-re-recording-fearless-love-story-master-rights-scooter-braun" target="_blank">Being the second album she has re-recorded in the long process to regain ownership of her masters, it has a lot going for it.</a>
@@ -162,6 +183,7 @@
         </author>
         <link href="https://viktorelias.com/2016-us-presidential-debate-donald-trump-vs-hillary-clinton-a-political-analysis/"/>
         <id>https://viktorelias.com/2016-us-presidential-debate-donald-trump-vs-hillary-clinton-a-political-analysis/</id>
+        <media:content url="https://viktorelias.com/media/posts/1/first-us-presidential-debate-2016.jpeg" medium="image" />
             <category term="JRN 501"/>
 
         <updated>2022-10-18T14:50:30-04:00</updated>
@@ -173,7 +195,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://viktorelias.com/media/posts/1/first-us-presidential-debate-2016.jpeg" alt="Preparations for 2016 U.S. Presidential Debate between Donald Trump and Hillary Clinton" />
+                    <p><img src="https://viktorelias.com/media/posts/1/first-us-presidential-debate-2016.jpeg" class="type:primaryImage" alt="Preparations for 2016 U.S. Presidential Debate between Donald Trump and Hillary Clinton" /></p>
                 <p><span style="font-weight: 400;">During the first <a href="https://www.youtube.com/watch?v=855Am6ovK7s" target="_blank" rel="noopener noreferrer">2016 U.S. presidential election debate</a>, Donald Trump and Hillary Clinton faced off in a sometimes heated debate that revolved around a number of key issues. Compared to the <a href="https://www.youtube.com/watch?v=5cathmZFeXs" target="_blank" rel="noopener noreferrer">2020 U.S. presidential election debate</a> between Donald Trump and Joe Biden, it’s clear the temperature has changed for the worse in the U.S., at least within the political system.</span></p>
 <p><span style="font-weight: 400;">“Donald, I know you live in your own reality,” said Clinton in the highly-anticipated event hosted at Hofstra University in Hempstead, New York, suggesting Trump lies. She also suggested he was and is a racist and a sexist. </span></p>
 <p><span style="font-weight: 400;">Throughout the debate, Clinton called Trump by his first name — a sign of the lack of collegiality that has seeped into recent U.S. politics, including but not limited to the first U.S. presidential debate during the 2020 cycle between Biden and Trump where Biden asked the then-U.S. president Trump to “shut up.”</span></p>
@@ -193,6 +215,7 @@
         </author>
         <link href="https://viktorelias.com/toronto-in-red-zone-moves-to-extend-covid-19-restrictions/"/>
         <id>https://viktorelias.com/toronto-in-red-zone-moves-to-extend-covid-19-restrictions/</id>
+        <media:content url="https://viktorelias.com/media/posts/7/covid-mask-ttc.jpeg" medium="image" />
             <category term="JRN 103"/>
 
         <updated>2022-10-20T17:03:02-04:00</updated>
@@ -204,7 +227,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://viktorelias.com/media/posts/7/covid-mask-ttc.jpeg" alt="Woman wears a mask while aboard a TTC streetcar in Toronto, Canada" />
+                    <p><img src="https://viktorelias.com/media/posts/7/covid-mask-ttc.jpeg" class="type:primaryImage" alt="Woman wears a mask while aboard a TTC streetcar in Toronto, Canada" /></p>
                 
   <p>
     <a href="https://www.toronto.ca/news/city-of-toronto-mandating-stricter-restrictions-to-decrease-covid-19-transmission-in-toronto/" target="_blank">Toronto’s top doctor announced on Tuesday</a> that the city will move into the red zone of Ontario’s COVID-19 tiered shutdown system and will tighten restrictions even further, including postponing the resumption of indoor dining until at least mid-December.
@@ -255,6 +278,7 @@
         </author>
         <link href="https://viktorelias.com/ford-announces-millions-in-mental-health-addictions-supports/"/>
         <id>https://viktorelias.com/ford-announces-millions-in-mental-health-addictions-supports/</id>
+        <media:content url="https://viktorelias.com/media/posts/6/doug-ford-CAMH.jpeg" medium="image" />
             <category term="JRN 103"/>
 
         <updated>2022-10-20T17:05:35-04:00</updated>
@@ -266,7 +290,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://viktorelias.com/media/posts/6/doug-ford-CAMH.jpeg" alt="Doug Ford makes announcement at CAMH on October 7, 2020" />
+                    <p><img src="https://viktorelias.com/media/posts/6/doug-ford-CAMH.jpeg" class="type:primaryImage" alt="Doug Ford makes announcement at CAMH on October 7, 2020" /></p>
                 
   <p>
     The COVID-19 pandemic has been stressful for many, but for others it has been deadly.
@@ -307,15 +331,16 @@
         </content>
     </entry>
     <entry>
-        <title>Fact Check: Was Joe Biden &quot;Wearing a Wire&quot; During the Debate?</title>
+        <title>Fact Check: Was Joe Biden &#x27;Wearing a Wire&#x27; During the Debate?</title>
         <author>
             <name>Viktor Elias</name>
         </author>
         <link href="https://viktorelias.com/fact-check-was-joe-biden-wearing-a-wire-during-the-debate/"/>
         <id>https://viktorelias.com/fact-check-was-joe-biden-wearing-a-wire-during-the-debate/</id>
+        <media:content url="https://viktorelias.com/media/posts/5/joe-biden-2.jpeg" medium="image" />
             <category term="JRN 103"/>
 
-        <updated>2022-10-20T16:35:50-04:00</updated>
+        <updated>2022-11-20T19:11:33-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://viktorelias.com/media/posts/5/joe-biden-2.jpeg" alt="Joe Biden speaks with attendees at the Moving America Forward Forum hosted by United for Infrastructure at the Student Union at the University of Nevada, Las Vegas, in February 2020 " />
@@ -324,7 +349,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://viktorelias.com/media/posts/5/joe-biden-2.jpeg" alt="Joe Biden speaks with attendees at the Moving America Forward Forum hosted by United for Infrastructure at the Student Union at the University of Nevada, Las Vegas, in February 2020 " />
+                    <p><img src="https://viktorelias.com/media/posts/5/joe-biden-2.jpeg" class="type:primaryImage" alt="Joe Biden speaks with attendees at the Moving America Forward Forum hosted by United for Infrastructure at the Student Union at the University of Nevada, Las Vegas, in February 2020 " /></p>
                 
   <p>
     Tuesday's U.S. presidential debate was one to remember. Both candidates — U.S. President Donald J. Trump and former Vice-President Joe Biden — took turns knocking each other in the 90-minute event.
